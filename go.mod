@@ -1,3 +1,3 @@
 module github.com/reverted/signal
 
-go 1.17
+go 1.20
